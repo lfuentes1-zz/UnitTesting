@@ -1,0 +1,8 @@
+/Users/letty/VBCode/bin/Debug/netcoreapp1.1/VBCode.deps.json
+/Users/letty/VBCode/bin/Debug/netcoreapp1.1/VBCode.runtimeconfig.json
+/Users/letty/VBCode/bin/Debug/netcoreapp1.1/VBCode.runtimeconfig.dev.json
+/Users/letty/VBCode/bin/Debug/netcoreapp1.1/VBCode.dll
+/Users/letty/VBCode/bin/Debug/netcoreapp1.1/VBCode.pdb
+/Users/letty/VBCode/obj/Debug/netcoreapp1.1/VBCode.AssemblyInfo.cs
+/Users/letty/VBCode/obj/Debug/netcoreapp1.1/VBCode.dll
+/Users/letty/VBCode/obj/Debug/netcoreapp1.1/VBCode.pdb
